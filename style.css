@@ -1,0 +1,14 @@
+body{
+  background-color: violet;
+  margin: 30px;
+}
+h1{
+    text-align: center;
+}
+.p1{
+    background-color: rgb(171, 157, 184);
+}
+
+hr{
+    background-color: black;
+}
